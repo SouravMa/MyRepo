@@ -1,2 +1,2 @@
-echo "Neymar Junior Dolphinl"
+echo "Ney Junior"
 pause;
