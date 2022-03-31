@@ -1,2 +1,2 @@
-echo "Christiano Ronaldooo siuuuu"
+echo "Christiano Ronaldooo"
 pause;
